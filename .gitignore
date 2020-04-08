@@ -1,0 +1,8 @@
+/bin/
+/include/
+/lib/
+/lib64
+*.py[co]
+/pyvenv.cfg
+/share/
+.*.sw[op]

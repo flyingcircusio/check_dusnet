@@ -1,6 +1,0 @@
-syntax: glob
-
-*.swp
-include
-bin
-lib
